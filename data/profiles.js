@@ -29,6 +29,13 @@ const profiles = {
         "batch": "2012-2016"
       },
       {
+        "name": "Pawan Kumar",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQF9wjxk937Siw/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=jGGbInCR9mBMqJ5X3ZQFCo1iH9EAGHHSq6kicDBZc7s",
+        "title": "Senior Software Developer at Adobe",
+        "profileLink": "https://www.linkedin.com/in/mr-p1-kumar/",
+        "batch": "2012-2016"
+      },
+      {
         "name": "Utkarsh Kumar",
         "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHmpcttMNkXOw/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=EJTLGkXtsOkEz7HiHLNHa7wqao7RPmKXCQvtGh6VZPI",
         "title": "SDE at Porter.in | NIT | Expertise in Microservices",
