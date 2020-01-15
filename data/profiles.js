@@ -147,5 +147,12 @@ const profiles = {
         "profileLink": "https://www.linkedin.com/in/vipinbasia/",
         "batch": "2010-2014"
       },
+      {
+        "name": "Rishabh Chanana",
+        "imageUrl": "https://lh3.googleusercontent.com/VyPxYgk0nTZm-RuvAyl1jEpSUCM_kR6Fp3aWIhSSc9Uo8fPoZD7g8WHOrdAGBmEUx7GlEN8URyTh4NwnUGUNQptxciKEJ54gKeNAY_S-Rx3b77eYPrgNQL1NxZkewITKIvwhof7EXw=w1600-h1200-no",
+        "title": "Student at The Ohio State University",
+        "profileLink": "https://www.linkedin.com/in/rishabhchanana26/",
+        "batch": "2015-2019"
+      },
     ]
   }
