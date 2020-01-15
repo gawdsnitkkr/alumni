@@ -5,19 +5,24 @@ const getProfile = (profile) => {
 
   return `
     <div class="card">
+    
       <div class="profile-image-container">
         <a href="${profileLink}" target="_blank">
           <img src="${imageUrl}" alt="${name}" />
         </a>
+      
       </div>
+      <div class="profile-image-back">
       <div class="profile-name">
         <a href="${profileLink}" target="_blank">
           ${name}
         </a>
         <p>${batch}</p>
       </div>
+      
       <div class="profile-title">
         ${title}
+      </div>
       </div>
     </div>
   `;
