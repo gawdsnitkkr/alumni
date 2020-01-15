@@ -1,6 +1,6 @@
 const MAX_TITLE_LENGTH = 35;
 
-const getProfile = (profile) => {
+const getProfile = profile => {
   const { name, imageUrl, profileLink, batch, title } = profile;
 
   return `
@@ -28,9 +28,12 @@ const getProfile = (profile) => {
   `;
 };
 
-const content = document.getElementById('content');
+const content = document.getElementById("content");
 
-let contentHtml = '';
+const compare = (a, b) => parseInt(a.batch) > parseInt(b.batch);
+
+let contentHtml = "";
+profiles.data.sort(compare);
 profiles.data.forEach(profile => {
   contentHtml += getProfile(profile);
 });

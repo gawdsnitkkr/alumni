@@ -132,6 +132,20 @@ const profiles = {
         "title": "Software Development Engineer at Licious",
         "profileLink": "https://www.linkedin.com/in/kumaranshu72/",
         "batch": "2014-2018"
-      }
+      },
+      {
+        "name": "Deepak Y",
+        "imageUrl": "https://media-exp2.licdn.com/dms/image/C4E03AQG7uL9Av2djuQ/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=pRaRve8Tvmd-tOFli94tQmxakjSxPRzsdMrA2gwedFI",
+        "title": "Frontend Engineer (Hiring for Frontend Roles at SupplyAI)",
+        "profileLink": "https://www.linkedin.com/in/djyadav/",
+        "batch": "2010-2014"
+      },
+      {
+        "name": "Vipin Basia",
+        "imageUrl": "https://media-exp2.licdn.com/dms/image/C5103AQFl1RNQOgY4mA/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=Uw7njt-47axmipw2Cd9cQTYKUscHM4a327LHtgWBMxw",
+        "title": "Staff Engineer at Porter.in",
+        "profileLink": "https://www.linkedin.com/in/vipinbasia/",
+        "batch": "2010-2014"
+      },
     ]
   }
