@@ -3,35 +3,33 @@ html, body {
     padding: 0;
     height: 100%;
     width: 100%;
-    
-  }
+    }
   
   .header-main{
-    background:#ffffff;
+    background:#403f3e;
     height:75px;
     line-height:75px;
+    color: white;
     position:relative;
-    margin: 0
+    margin: 0;
   }
   .header-main h1{
     text-align: center;
     font-family: 'Alata';
+    font-size: 04vw;
+    margin-top: 0;
   }
   
   .center-aligned {
     text-align: center;
   }
   
-  #header {
-    color: #fff;
-  }
+  
   
   #container {
     width: 100%;
-    
-    
     font-family: 'Alata';
-    background: linear-gradient(to left, #482ef0 , #150482);
+    background: #403f3e;
   }
   
   #content {
