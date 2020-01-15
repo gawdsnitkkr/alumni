@@ -48,13 +48,12 @@ html, body {
     margin: 8px;
     text-align: center;
     width: 300px;
-    box-shadow: 2px 3px 4px  #fff;
-    transition: box-shadow 0.3s ease-in-out;
+    transition: box-shadow 0.2s ease-in-out;
     box-sizing: border-box;
     
   }
   .card:hover{
-    box-shadow: 2px 3px 8px  #fff;
+    box-shadow: 1px 2px 4px  #fff;
   }
 
 .profile-image-back{
