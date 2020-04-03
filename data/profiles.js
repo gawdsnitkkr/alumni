@@ -191,7 +191,7 @@ const profiles = {
       },
       {
         "name": "Payal",
-        "imageUrl": "",
+        "imageUrl": "https://drive.google.com/file/d/1-gAmZKPo73GVdxJxG8MLGAwCeJuOk-1i/view?usp=drivesdk&authuser=0",
         "title":"Incoming Software Engineer at Microsoft",
         "profileLink":"https://www.linkedin.com/in/payal1998/",
         "batch": "2016-2020"
