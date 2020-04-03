@@ -154,5 +154,61 @@ const profiles = {
         "profileLink": "https://www.linkedin.com/in/rishabhchanana26/",
         "batch": "2015-2019"
       },
+      {
+        "name": "Divya Mamgai",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHOwsuMLwHZpg/profile-displayphoto-shrink_800_800/0?e=1591228800&v=beta&t=Fo0gTG55maRohZqx-gqqI-pW2y_emKK2dAtwRYp0lKg",
+        "title": "Full Stack Software Engineer",
+        "profileLink": "https://www.linkedin.com/in/divyamamgai/",
+        "batch": "2014-2018"
+      },
+      {
+        "name": "Gautam Gujrati",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGlIGX0NnkOew/profile-displayphoto-shrink_800_800/0?e=1591228800&v=beta&t=jw34wEz8xjapEgsTGBZ2nM7Qbb-tRYfNt2kVPOYfhvU",
+        "title": "Freelance Graphic Designer",
+        "profileLink": "https://www.linkedin.com/in/gautam-gujrati-63b726181/",
+        "batch": "2014-2018"
+      },
+      {
+        "name": "Aman Gaur",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHnmNQ2R14s6Q/profile-displayphoto-shrink_800_800/0?e=1591228800&v=beta&t=dybgWGqx1WCE8RHSbBQ_-SqcJb8GgcTqN2SG-K_smCg",
+        "title": "DevOps engineer",
+        "profileLink": "https://www.linkedin.com/in/aman-gaur-161670116/",
+        "batch": "2015-2018"
+      },
+      {
+        "name":"Anushka Misra",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFcXVxPvr3e9g/profile-displayphoto-shrink_200_200/0?e=1591228800&v=beta&t=9HzMYDnjNO1SuzP6Vq9iR2ZR6n-hYUta5AXbKju1BZk",
+        "title": "Software Developer at Nasdaq",
+        "profileLink": "https://www.linkedin.com/in/anushka-misra-0722a1149/",
+        "batch": "2016-2020"
+      },
+      {
+        "name":"Shivam Gupta",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQE97VYBrwwXSw/profile-displayphoto-shrink_800_800/0?e=1591228800&v=beta&t=YERGl1BS86aC1aQr0WMdfqazwCZWAEsQTemnA-KSK6g",
+        "title": "Software Developer @ Accolite",
+        "profileLink": "https://www.linkedin.com/in/shivi98g/",
+        "batch": "2016-2020"
+      },
+      {
+        "name": "Payal",
+        "imageUrl": "",
+        "title":"Incoming Software Engineer at Microsoft",
+        "profileLink":"https://www.linkedin.com/in/payal1998/",
+        "batch": "2016-2020"
+      },
+      {
+        "name": "Narendra Kumawat",
+        "imageUrl": "https://scontent.fbom24-1.fna.fbcdn.net/v/t1.0-9/74332292_1536373146538084_319273974565437440_o.jpg?_nc_cat=107&_nc_ohc=V2RwT_3aM9oAX-PNZzq&_nc_ht=scontent.fbom24-1.fna&oh=2b109b986182400c48122222e0fcc050&oe=5E9F98C5",
+        "title": "Software Engineer at BrowserStack",
+        "profileLink": "https://www.linkedin.com/in/nkkumawat/ ",
+        "batch": "2015-2019"
+      },
+      {
+        "name": "Risabh Kumar",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHAQn_OboOURg/profile-displayphoto-shrink_200_200/0?e=1591228800&v=beta&t=TqI34grs_mNP4AkoC4ShiKmhw1sOv8oLXePWGLbAaOE",
+        "title": "EPU Manager (Alstom Transport India Ltd) ",
+        "profileLink": "https://www.linkedin.com/in/rishabhkrkkr/",
+        "batch": "2013-2017"
+      }
     ]
   }
