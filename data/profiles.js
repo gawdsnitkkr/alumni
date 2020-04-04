@@ -2,213 +2,157 @@ const profiles = {
     "data": [
       {
         "name": "Harsh Choudhary",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585944901/0_ibl0mb.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFI_xWLkxY87Q/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=Hz-dLMD23loPSzH358In4p4Q8LVzz_lU8rT26euuo-4",
         "title": "Getting the Big Data done for enterprises, honestly!",
         "profileLink": "https://www.linkedin.com/in/choudharyharsh/",
         "batch": "2011-2015"
-        
       },
       {
         "name": "Siddhant Garg",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945004/0_ge4ln9.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGCGwSMc5nmPw/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=w06F-PzEemFuO23eeclaQnIiCbx2W-l0Qb4RtuRiGhM",
         "title": "Software Engineer",
         "profileLink": "https://www.linkedin.com/in/gksiddhant/",
         "batch": "2011-2015"
       },
       {
         "name": "Tarun Tara",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945079/0_bdis5i.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEa2GL_usT85g/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=WuCFdVCsDxPLHEd5hR70E1TqMj_94PmUyhCa9LWfPL0",
         "title": "UI Engineer at Flipkart",
         "profileLink": "https://www.linkedin.com/in/tarun-tara-0b9b60a8/",
         "batch": "2011-2015"
       },
       {
         "name": "Bhanu Aggarwal",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945142/0_eyp9sz.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQEM3sZUjHDWZw/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=VH1N7ZTdu97mPEkofUCj_6keBFHWi6oOjIDgPfPB0QM",
         "title": "Software Engineer 2 at Uber",
         "profileLink": "https://www.linkedin.com/in/bhanu-aggarwal-04487186/",
         "batch": "2012-2016"
       },
       {
         "name": "Utkarsh Kumar",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945303/0_vctnnv.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHmpcttMNkXOw/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=EJTLGkXtsOkEz7HiHLNHa7wqao7RPmKXCQvtGh6VZPI",
         "title": "SDE at Porter.in | NIT | Expertise in Microservices",
         "profileLink": "https://www.linkedin.com/in/utkarsh578/",
         "batch": "2012-2016"
       },
       {
         "name": "Bhanuj Verma",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945379/0_jrh9yu.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFmXVz6xnCjWg/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=xOlzi6gOnPbmuS_2sA_6jAlxeOKLbyNX0tF8OnnnG7s",
         "title": "Project Manager - Strategic Expansion at Hero Motocorp Ltd",
         "profileLink": "https://www.linkedin.com/in/bhanujverma/",
         "batch": "2012-2016"
       },
       {
         "name": "Shashank Lakshmi Prasad",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945421/0_xhcx4w.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQEcVwCg1ocU5w/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=v9QiEsMAhNc9aRYEz65AKFS9_MzmaP079zq-GjwfAUI",
         "title": "Aspiring Front End Design Engineer",
         "profileLink": "https://www.linkedin.com/in/shashanklprasad/",
         "batch": "2012-2016"
       },
       {
         "name": "Varun kumar",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945441/0_bixyar.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHThvc2omi8Mg/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=GuTq5LKroeTD4QGx2WRK5EeqUj0eh9qhh5Mh1mfd2QE",
         "title": "Senior Software Engineer at Goibibo",
         "profileLink": "https://www.linkedin.com/in/varunon9/",
         "batch": "2013-2017"
       },
       {
         "name": "Abhishek Goswami",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945514/0_ontqda.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEWmRPWH0YN2w/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=_ClyXKyvmvGSDx3ZQyU2nUNIRw_nZ9f52gA7mswrlB0",
         "title": "Full Stack Engineer at Pipedrive",
         "profileLink": "https://www.linkedin.com/in/abhishek-goswami-591541b1/",
         "batch": "2013-2017"
       },
       {
         "name": "Rishabh Kumar",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945570/0_naoynz.jpg",    
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHAQn_OboOURg/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=G8v22csm12iRF6X3Ew14BW5W0RDxYzMx_WAUXGz0UyQ",    
         "title": "EPU manager at Alstom transport India ltd",
         "profileLink": "https://www.linkedin.com/in/rishabhkrkkr/",
         "batch": "2013-2017"
       },
       {
         "name": "Utkarsh Agarwal",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945607/0_ta0gj5.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFhg7LsXhJqbg/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=mv_gCd6518YRUEzDyUGwXwT26M1JytYAuWld1_pCoxo",
         "title": "Software developer at Fidelity Investments",
         "profileLink": "https://www.linkedin.com/in/utkarsh-agarwal-257405101/",
         "batch": "2013-2017"
       },
       {
         "name": "Himal Mangla",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945649/0_uwspt8.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEVvIH8464aYA/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=ee0u-Q-hFslrM87rraRjo1VpOj_tBCS__iBIMgTmryk",
         "title": "Business Intelligence Engineer at Amazon",
         "profileLink": "https://www.linkedin.com/in/himal-mangla-588853a9/",
         "batch": "2013-2017"
       },
       {
         "name": "Devendra Singh",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945659/0_n4hdkh.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGLT--awIL4qg/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=1EI29H4KYsUy1Lygdx-mx3GaWCZjmDkIbSqTRqWGOso",
         "title": "Associate Product Manager at Tracxn",
         "profileLink": "https://www.linkedin.com/in/devendra-singh-a862b1111/",
         "batch": "2013-2017"
       },
       {
         "name": "Chhavi Agarwal",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945742/0_hppnyx.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHLHNC7hapWeA/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=9_ICPHbIy_I1pWXoMtTaRFSMQpPL7T71HXPSm9VCRkM",
         "title": "Software Developer at CDOT",
         "profileLink": "https://www.linkedin.com/in/chhaviagarwal/",
         "batch": "2013-2017"
       },
       {
         "name": "Surbhi Anand",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945898/0_ssti0o.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQH5gvEzVNbBGw/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=QV-8OuwTIXAO9BtkcenzGa0zMshDlOuzSOTcABNf9d0",
         "title": "Software Developer at Microsoft",
         "profileLink": "https://www.linkedin.com/in/surbhi-anand-7a4530b1/",
         "batch": "2013-2017"
       },
       {
         "name": "Renu Rozera",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945937/0_ap3shv.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFSucdrx7cJNg/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=aazxjhWaZaWO98SJUInSE0mCsDP8Q_Mg6F6zjsD6FQ0",
         "title": "Software Development Engineer at Amazon",
         "profileLink": "https://www.linkedin.com/in/renu-rozera-6a4b1ab0/",
         "batch": "2013-2017"
       },
       {
         "name": "Arpit Bhatnagar",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585946136/0_r9i7lr.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGUqvJW13lbcg/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=0DHUYgMP21IXMDsrn1iX0ACBoiJ-pzhGFxpoJ_Pz_0I",
         "title": "Software Developer at Udaan",
         "profileLink": "https://www.linkedin.com/in/arpit-bhatnagar-964639117",
         "batch": "2015-2019"
       },
       {
         "name": "Ankit Joshi",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945949/0_reo805.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGEdbUx0qDIPg/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=duMAjjYFAb32o3BvTHKsJVAjQdemTZYyhM-VR0ON8p8",
         "title": "Software Developer at Google",
         "profileLink": "https://www.linkedin.com/in/ankit-joshi-b6016b10a/",
         "batch": "2014-2018"
       },
       {
         "name": "Anshu Kumar",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585946082/0_hfm7ea.jpg",
+        "imageUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFhjnAs49Hc0Q/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=uP_RC0aNfUl84_5mtC49AkURqEBQ5xreX-BHFqKjfm4",
         "title": "Software Development Engineer at Licious",
         "profileLink": "https://www.linkedin.com/in/kumaranshu72/",
         "batch": "2014-2018"
       },
       {
         "name": "Deepak Y",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585944766/0_fquaay.jpg",
+        "imageUrl": "https://media-exp2.licdn.com/dms/image/C4E03AQG7uL9Av2djuQ/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=pRaRve8Tvmd-tOFli94tQmxakjSxPRzsdMrA2gwedFI",
         "title": "Frontend Engineer (Hiring for Frontend Roles at SupplyAI)",
         "profileLink": "https://www.linkedin.com/in/djyadav/",
         "batch": "2010-2014"
       },
       {
         "name": "Vipin Basia",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585944835/0_tanbxn.jpg",
+        "imageUrl": "https://media-exp2.licdn.com/dms/image/C5103AQFl1RNQOgY4mA/profile-displayphoto-shrink_200_200/0?e=1584576000&v=beta&t=Uw7njt-47axmipw2Cd9cQTYKUscHM4a327LHtgWBMxw",
         "title": "Staff Engineer at Porter.in",
         "profileLink": "https://www.linkedin.com/in/vipinbasia/",
         "batch": "2010-2014"
       },
       {
         "name": "Rishabh Chanana",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585946324/0_vn25et.jpg",
+        "imageUrl": "https://lh3.googleusercontent.com/VyPxYgk0nTZm-RuvAyl1jEpSUCM_kR6Fp3aWIhSSc9Uo8fPoZD7g8WHOrdAGBmEUx7GlEN8URyTh4NwnUGUNQptxciKEJ54gKeNAY_S-Rx3b77eYPrgNQL1NxZkewITKIvwhof7EXw=w1600-h1200-no",
+        "title": "Student at The Ohio State University",
         "profileLink": "https://www.linkedin.com/in/rishabhchanana26/",
         "batch": "2015-2019"
       },
-      {
-        "name": "Divya Mamgai",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585946107/0_ihxcmr.jpg",
-        "title": "Full Stack Software Engineer",
-        "profileLink": "https://www.linkedin.com/in/divyamamgai/",
-        "batch": "2014-2018"
-      },
-      {
-        "name": "Gautam Gujrati",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585946124/0_bsf8he.jpg",
-        "title": "Freelance Graphic Designer",
-        "profileLink": "https://www.linkedin.com/in/gautam-gujrati-63b726181/",
-        "batch": "2014-2018"
-      },
-      {
-        "name": "Aman Gaur",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585946357/0_edajyl.jpg",
-        "title": "DevOps engineer",
-        "profileLink": "https://www.linkedin.com/in/aman-gaur-161670116/",
-        "batch": "2015-2018"
-      },
-      {
-        "name":"Anushka Misra",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585946384/0_zjxlyp.jpg",
-        "title": "Software Developer at Nasdaq",
-        "profileLink": "https://www.linkedin.com/in/anushka-misra-0722a1149/",
-        "batch": "2016-2020"
-      },
-      {
-        "name":"Shivam Gupta",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945819/0_s5pph9.jpg",
-        "title": "Software Developer @ Accolite",
-        "profileLink": "https://www.linkedin.com/in/shivi98g/",
-        "batch": "2016-2020"
-      },
-      {
-        "name": "Payal",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945256/Payal_qlimyz.jpg",
-        "title":"Incoming Software Engineer at Microsoft",
-        "profileLink":"https://www.linkedin.com/in/payal1998/",
-        "batch": "2016-2020"
-      },
-      {
-        "name": "Narendra Kumawat",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585946371/0_ysnpph.jpg",
-        "title": "Software Engineer at BrowserStack",
-        "profileLink": "https://www.linkedin.com/in/nkkumawat/ ",
-        "batch": "2015-2019"
-      },
-      {
-        "name": "Risabh Kumar",
-        "imageUrl": "https://res.cloudinary.com/gawdsalumni/image/upload/v1585945945/0_fmuynp.jpg",
-        "title":"EPU Manager (Alstom Transport India Ltd) ",
-        "profileLink": "https://www.linkedin.com/in/rishabhkrkkr/",
-        "batch":"2013-2017"
-      }
     ]
   }
