@@ -3,7 +3,6 @@ const MAX_TITLE_LENGTH = 35;
 const getProfile = profile => {
   const { name, imageUrl, profileLink, batch, title } = profile;
 
-  
   return `
     <div class="card">
     
@@ -31,19 +30,10 @@ const getProfile = profile => {
 
 const content = document.getElementById("content");
 
-function GetSortOrder(prop) {  
-  return function(a, b) {  
-      if (parseInt(a[prop]) > parseInt(b[prop])) {  
-          return 1;  
-      } else if (parseInt(a[prop]) < parseInt(b[prop])) {  
-          return -1;  
-      }  
-      return 0;  
-  }  
-} 
+const compare = (a, b) => parseInt(a.batch) > parseInt(b.batch);
 
 let contentHtml = "";
-profiles.data.sort(GetSortOrder("batch"));
+profiles.data.sort(compare);
 profiles.data.forEach(profile => {
   contentHtml += getProfile(profile);
 });
