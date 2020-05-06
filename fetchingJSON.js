@@ -6,23 +6,20 @@ const requestURL =
 const request = new XMLHttpRequest();
 
 request.open("GET", requestURL);
-
 request.responseType = "json";
-
 request.send();
 
 request.onload = function () {
   const jsonObj = request.response;
-
   populateContent(jsonObj);
 };
 
 function populateContent(jsonObj) {
   let noOfAlumni = jsonObj["feed"]["entry"].length / 6 - 1;
-
+	const date = new Date();
   for (let i = 1; i <= noOfAlumni; i++) {
     const batch = jsonObj["feed"]["entry"][i * 6 + 5]["content"]["$t"].split("-")[1];
-		if(batch < 2020){
+		if(batch < date.getFullYear() || (+batch === date.getFullYear() && date.getMonth() >= 5)) {
 			const card = document.createElement("div");
 			const profile_image_container = document.createElement("div");
 			const profile_image_back = document.createElement("div");
